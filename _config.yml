@@ -1,0 +1,28 @@
+name: Future351
+favicon: null
+layout_spectrum: 0.9444719918537885
+typography_spectrum: 0.2255857700947672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.116362419212237
+  lightness: 0.09478009771555662
+  saturation: 0.8073984377551824
+  rhythmicContrast: 0.4329272627364844
+purpose: []
